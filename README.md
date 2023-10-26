@@ -1,4 +1,4 @@
-# Multi-scale Diffusion Denoised Smoothing (NeurIPS 2023)
+# Multi-scale Diffusion Denoised Smoothing
 
 [Jongheon Jeong](https://jh-jeong.github.io/) and [Jinwoo Shin](http://alinlab.kaist.ac.kr/shin.html)
 
