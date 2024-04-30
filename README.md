@@ -1,4 +1,4 @@
-# Multi-scale Diffusion Denoised Smoothing (NeurIPS 2022)
+# Multi-scale Diffusion Denoised Smoothing (NeurIPS 2023)
 
 This repository contains code for the paper
 **"Multi-scale Diffusion Denoised Smoothing"** 
